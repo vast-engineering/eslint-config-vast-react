@@ -1,7 +1,9 @@
 # eslint-config-vast-react
-> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for React and [react-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) to be used with [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast)
+> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for React to be used with [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast)
 
 [![NPM version](https://badge.fury.io/js/eslint-config-vast-react.svg)](https://www.npmjs.org/package/eslint-config-vast-react) [![Dependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react) [![devDependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react/dev-status.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react?type=dev) [![devDependency Status](https://david-dm.org/vast-engineering/eslint-config-vast-react/peer-status.svg)](https://david-dm.org/vast-engineering/eslint-config-vast-react?type=peer)
+
+This config uses [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) for React, and [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) for basic accessibility checks.
 
 ## Installation
 
