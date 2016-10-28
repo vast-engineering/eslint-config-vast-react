@@ -19,7 +19,7 @@ Create `.eslintrc` file in the root of your project with the following config:
 }
 ```
 
-See [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast) for further instructions.
+See [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast) for additional information.
 
 ## Related
 - [eslint-config-vast](https://github.com/vast-engineering/eslint-config-vast)
