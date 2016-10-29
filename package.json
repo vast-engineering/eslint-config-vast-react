@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vast-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint shareable config for React and react-a11y to be used with eslint-config-vast",
   "main": "index.js",
   "scripts": {
