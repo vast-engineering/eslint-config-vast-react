@@ -25,9 +25,6 @@
     "url": "https://github.com/vast-engineering/eslint-config-vast-react/issues"
   },
   "homepage": "https://github.com/vast-engineering/eslint-config-vast-react#readme",
-  "dependencies": {
-    "eslint-config-vast": "1.6.0"
-  },
   "devDependencies": {
     "eslint": "^3.8.1",
     "eslint-plugin-jsx-a11y": "^2.2.3",

@@ -7,7 +7,7 @@ This config uses [eslint-plugin-react](https://github.com/yannickcr/eslint-plugi
 
 ## Installation
 
-    npm install --save-dev eslint-config-vast-react eslint-plugin-react eslint-plugin-jsx-a11y
+    npm install --save-dev eslint-config-vast-react eslint-config-vast eslint-plugin-react eslint-plugin-jsx-a11y
 
 ## Usage
 
